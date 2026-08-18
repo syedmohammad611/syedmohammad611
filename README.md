@@ -138,11 +138,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=syedmohammad611&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=c7483b&icon_color=c6a867&text_color=ece5d8&bg_color=0a0908" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmohammad611&layout=compact&hide_border=true&langs_count=8&title_color=c7483b&text_color=ece5d8&bg_color=0a0908" alt="Top languages" />
-
-<br/><br/>
-
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedmohammad611&bg_color=0a0908&color=ece5d8&line=c7483b&point=c6a867&area=true&area_color=c7483b&title_color=c7483b&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 
 <br/><br/>
@@ -171,7 +166,8 @@
 <br/>
 
 <div align="center">
-  <sub><i>"Those who break the rules are scum — but those who abandon their comrades are worse than scum."</i></sub>
-  <br/><br/>
-  <sub><a href="https://www.linkedin.com/in/syed-muhammad-shah0/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:syedmohammad611@gmail.com">syedmohammad611@gmail.com</a></sub>
+
+### <em>“Those who break the rules are scum — but those who abandon their comrades are worse than scum.”</em>
+
+<sub><a href="https://www.linkedin.com/in/syed-muhammad-shah0/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:syedmohammad611@gmail.com">syedmohammad611@gmail.com</a></sub>
 </div>
