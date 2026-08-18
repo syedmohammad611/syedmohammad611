@@ -143,10 +143,6 @@
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=syedmohammad611&hide_border=true&background=0a0908&border=221c15&stroke=221c15&ring=c7483b&fire=c7483b&currStreakNum=ece5d8&sideNums=ece5d8&currStreakLabel=c6a867&sideLabels=ada393&dates=786e60&titleColor=c7483b" alt="GitHub streak" />
-
-<br/><br/>
-
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=syedmohammad611&bg_color=0a0908&color=ece5d8&line=c7483b&point=c6a867&area=true&area_color=c7483b&title_color=c7483b&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 
 <br/><br/>
