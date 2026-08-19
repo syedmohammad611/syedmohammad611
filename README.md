@@ -22,7 +22,7 @@
 - 🔬 Building **Aegis** — an adversarial drone-swarm simulation with a reinforcement-learning defender (final-year research)
 - ⚙️ Offensive research turned into tooling: a coverage-guided **fuzzer** in C, and a Windows **privilege-escalation auditor** with CVSS v3.1 & SARIF
 - 🎯 Working toward the **Hack The Box CPTS**
-- 👥 Led a **100+ member** society and ran its first student-run **CTF** · **13th / 50+** nationally at NASCON
+- 👥 Led a **100+ member** society and ran its first student-run **CTF**
 
 <sub>🔒 Detailed case studies for my private security work — <b>Aegis · Ascend · NightShade</b> — live on my portfolio (deploying soon).</sub>
 
