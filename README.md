@@ -3,7 +3,7 @@
 <h1>Syed&nbsp;Muhammad</h1>
 
 <a href="https://github.com/syedmohammad611">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=C7483B&center=true&vCenter=true&repeat=true&width=720&height=42&lines=Cybersecurity+Researcher+%C2%B7+Offensive+Security;Fuzzing+%C2%B7+Privilege+Escalation+%C2%B7+Malware+Analysis;CS'27+%40+FAST-NUCES+%C2%B7+VP%2C+Cybersecurity+Society;An+adversarial+mindset%2C+pointed+at+building+defenses" alt="Cybersecurity Researcher · Offensive Security · Fuzzing · Privilege Escalation · CS'27 @ FAST-NUCES" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=C7483B&center=true&vCenter=true&repeat=true&width=720&height=42&lines=Cybersecurity+Researcher+%C2%B7+Offensive+Security;Fuzzing+%C2%B7+Privilege+Escalation+%C2%B7+Malware+Analysis;CS'27+%40+FAST-NUCES+%C2%B7+President%2C+Cybersecurity+Society;An+adversarial+mindset%2C+pointed+at+building+defenses" alt="Cybersecurity Researcher · Offensive Security · Fuzzing · Privilege Escalation · CS'27 @ FAST-NUCES" />
 </a>
 
 <p>
@@ -18,11 +18,11 @@
 
 ## `whoami`
 
-- 🛡️ Cybersecurity researcher & **CS'27 @ FAST-NUCES** — **Vice President** of its Cybersecurity Society
+- 🛡️ Cybersecurity researcher & **CS'27 @ FAST-NUCES** — **President** of its Cybersecurity Society
 - 🔬 Building **Aegis** — an adversarial drone-swarm simulation with a reinforcement-learning defender (final-year research)
 - ⚙️ Offensive research turned into tooling: a coverage-guided **fuzzer** in C, and a Windows **privilege-escalation auditor** with CVSS v3.1 & SARIF
 - 🎯 Working toward the **Hack The Box CPTS**
-- 👥 Led a **100+ member** society and ran its first student-run **CTF**
+- 👥 Lead a **100+ member** society and ran its first student-run **CTF**
 
 <sub>🔒 Detailed case studies for my private security work — <b>Aegis · Ascend · NightShade</b> — live on my portfolio (deploying soon).</sub>
 
